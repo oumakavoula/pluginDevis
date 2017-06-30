@@ -1,0 +1,11 @@
+POUR INSTALLER LA BASE DE DONNEES : 
+
+IMPORTER LE FICHIER 'create_database_devis_v1.sql' SITUE DANS pluginDevis/sql
+
+PUIS
+
+SELECTIONNER LA BASE DE DONNES 'devis_v1.sql'
+
+ENFIN
+
+IMPORTER LE FICHIER 'devis_v1.sql' SITUE DANS pluginDevis/sql

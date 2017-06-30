@@ -1,0 +1,34 @@
+.row-header{
+	margin-top: 20px;
+}
+.img-header{
+	height: 190px;
+}
+.txt-header-1{
+	font-size:35px;
+	padding-left: 0px;
+}
+.row-sub-header{
+	margin: 0;
+}
+.col-sub-header{
+	background-image: url("../img/bckgd-superglobal-formation.png");
+	background-repeat:repeat-x;
+	background-size:auto 102px;
+}
+.img-sub-header{
+	width: 100%;
+	min-height: 86px;
+}
+.form-left{
+	margin-top: 30px;
+}
+.form-right{
+	margin-top: 30px;
+}
+#nopadding-left{
+	padding-left: 0px;
+}
+#nopadding-right{
+	padding-right: 0px;
+}
